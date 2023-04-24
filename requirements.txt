@@ -1,4 +1,5 @@
 tensorflow
 streamlit
 requests
-sckit-learn
+scikit-learn==1.0.2
+
