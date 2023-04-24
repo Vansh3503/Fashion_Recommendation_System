@@ -1,5 +1,4 @@
 tensorflow
 streamlit
 requests
-sklearn
-NearestNeighbors
+sckit-learn
