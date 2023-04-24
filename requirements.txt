@@ -1,3 +1,8 @@
 tensorflow
 streamlit
 requests
+sklearn
+pickle
+os
+numpy
+PIL
